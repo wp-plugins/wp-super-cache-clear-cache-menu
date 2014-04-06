@@ -4,11 +4,11 @@ Donate link: http://apasionados.es/
 Tags: empty cache, emtpy wp super cache, cache, caching, performance, wp-cache, wp-super-cache, web performance optimization, WPO, YUI, yslow, google speed
 Requires at least: 3.0.1
 Tested up to: 3.8.1
-Stable tag: 1.0
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Clear all cache for WP Super Cache clears completly the cache directly from the admin menu.
+Clear all cache for WP Super Cache adds a menu entry to the admin menu to clear the cache completly.
 
 == Description ==
 
@@ -30,7 +30,7 @@ This first release is avaliable in English and Spanish. In the languages folder 
 If you would like the plugin in your language and you're good at translating, please drop us a line at [Contact us](http://apasionados.es/contacto/index.php?desde=wordpress-org-wp-super-cache-clear-cache-menu-home).
 
 = Further Reading =
-You can access the description of the plugin in Spanish at: [WP Super Cache - Clear all cache Plugin en castellano](http://apasionados.es/blog/).
+You can access the description of the plugin in Spanish at: [WP Super Cache - Clear all cache Plugin en castellano](http://apasionados.es/blog/vaciar-cache-wp-super-cache-plugin-wordpress-1933/).
 
 
 == Installation ==
@@ -77,6 +77,12 @@ Of course we do. ;-)
 
 == Changelog ==
 
+= 1.2 =
+* Updated and corrected readme.txt.
+
+= 1.1 =
+* Updated and corrected readme.txt.
+
 = 1.0 =
 * First stable release.
 
@@ -85,8 +91,8 @@ Of course we do. ;-)
 
 == Upgrade Notice ==
 
-= 1.0 =
-First stable release.
+= 1.2 =
+Updated and corrected readme.txt.
 
 == Contact ==
 
