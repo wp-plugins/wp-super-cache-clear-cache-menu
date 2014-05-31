@@ -3,7 +3,7 @@ Contributors: apasionados, netconsulting
 Donate link: http://apasionados.es/
 Tags: empty cache, emtpy wp super cache, cache, caching, performance, wp-cache, wp-super-cache, web performance optimization, WPO, YUI, yslow, google speed
 Requires at least: 3.0.1
-Tested up to: 3.9.0
+Tested up to: 3.9.1
 Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
