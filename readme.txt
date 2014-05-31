@@ -4,7 +4,7 @@ Donate link: http://apasionados.es/
 Tags: empty cache, emtpy wp super cache, cache, caching, performance, wp-cache, wp-super-cache, web performance optimization, WPO, YUI, yslow, google speed
 Requires at least: 3.0.1
 Tested up to: 3.9.0
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -77,6 +77,9 @@ Of course we do. ;-)
 
 == Changelog ==
 
+= 1.3 =
+* Updated the code to fix the bug inspirationdate found: "The link added is relative so it doesn't work when the toolbar is displayed on the frontend".
+
 = 1.2 =
 * Updated and corrected readme.txt.
 
@@ -91,8 +94,8 @@ Of course we do. ;-)
 
 == Upgrade Notice ==
 
-= 1.2 =
-Updated and corrected readme.txt.
+= 1.3 =
+Updated the code to fix the bug inspirationdate found: "The link added is relative so it doesn't work when the toolbar is displayed on the frontend". Thanks.
 
 == Contact ==
 
