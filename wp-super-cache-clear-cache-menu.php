@@ -3,7 +3,7 @@
 Plugin Name: WP Super Cache - Clear all cache 
 Plugin URI: http://ocaoimh.ie/wp-super-cache/
 Description: Clear all cached files of the WP Super Cache plugin directly from the admin menu (option only available to super admins).
-Version: 1.3
+Version: 1.3.1
 Author: Apasionados.es
 Author URI: http://apasionados.es/
 Text Domain: wp-super-cache-clear-cache-menu
